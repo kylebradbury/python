@@ -1,5 +1,5 @@
 # Python
-A short course introducing students to the Python programming language for data science
+A short course introducing the Python programming language for data science.
 
 ## Unit 1: Python Programming Fundamentals
 
@@ -13,7 +13,7 @@ A short course introducing students to the Python programming language for data 
 
 [Important Built-in Functions](https://github.com/kylebradbury/python/blob/master/python_1.5_builtin_functions.ipynb)
 
-[QUIZ: Unit 1 Quiz Questions and Instructions](https://github.com/kylebradbury/python/blob/master/python_quiz_1.ipynb)
+[Quiz: Unit 1](https://github.com/kylebradbury/python/blob/master/python_quiz_1.ipynb)
 
 ## Unit 2: Functions, Objects, and Classes
 
@@ -27,7 +27,7 @@ A short course introducing students to the Python programming language for data 
 
 [Coding Best Practices](https://github.com/kylebradbury/python/blob/master/python_2.5_best_practices.ipynb)
 
-[QUIZ: Unit 2](https://github.com/kylebradbury/python/blob/master/python_quiz_2.ipynb)
+[Quiz: Unit 2](https://github.com/kylebradbury/python/blob/master/python_quiz_2.ipynb)
 
 ## Unit 3: Computational Programming
 
@@ -37,8 +37,8 @@ A short course introducing students to the Python programming language for data 
 
 [Working with Datasets using Pandas](https://github.com/kylebradbury/python/blob/master/python_3.3_pandas.ipynb)
 
-[QUIZ: Unit 3](https://github.com/kylebradbury/python/blob/master/python_quiz_3.ipynb)
+[Quiz: Unit 3](https://github.com/kylebradbury/python/blob/master/python_quiz_3.ipynb)
 
 ## Appendix
 
-[The Command Line / Shell](https://github.com/kylebradbury/python/blob/master/python_command_line.ipynb)
+[The Command Line / Shell](https://github.com/kylebradbury/python/blob/master/python_appendix_command_line.ipynb)
